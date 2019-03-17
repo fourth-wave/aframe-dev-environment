@@ -1,2 +1,5 @@
-# aframe-dev-environment
-The image of a webvr dev environment using Node, Express, &amp; Aframe for the Digital Ocean Marketplace
+subway VR
+=================
+An example a-frame project showing off simple animation, objects, color, shaows, and textures.
+
+[Aframe.io](aframe.io)
