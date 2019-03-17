@@ -1,0 +1,28 @@
+{
+  "//1": "Easy to get started example of webvr",
+  "//2": "https://github.com/fourth-wave/aframe-dev-environment",
+  "//3":"hi.",
+  "name": "Fourth-wave-webvr-dev",
+  "version": "1.0.0",
+  "description": "A simple Node app built on Express, instantly up and running with webvr",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/fourth-wave/aframe-dev-environment"
+  },
+  "license": "undecided. please dont use commercially.",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "webvr"
+  ]
+}
